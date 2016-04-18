@@ -1,0 +1,6 @@
+#忽略掉*.user文件
+*.user
+#忽略掉Debug和release文件夹
+*-Debug
+*-Release
+
